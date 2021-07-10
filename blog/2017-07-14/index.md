@@ -7,7 +7,7 @@ that all ten students have passed the first evaluation."
 author: "skaldarnar"
 ddate: "July 14th, 2017"
 date: "2017-07-14"
-tags: "GSoC"
+tags: ["GSoC"]
 ---
 
 The first hurdle of [Google Summer of Code][GSOC] is already over for our students, so it's about time to happily announce

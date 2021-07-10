@@ -6,7 +6,7 @@ description: "Another summer full of coding and fun is finally over, and now it'
 author: "Niruandaleth & Skaldarnar"
 ddate: "Sept 27th, 2019"
 date: "2019-09-27"
-tags: "GSoC"
+tags: ["GSoC"]
 ---
 
 A few months ago, we introduced [this year's Google Summer of Code students and their projects](/blog/gsoc-2019-an-overview). Now that the summer is over, it's time to summarize what has happened. But first of all: we are very happy to thank all our nine students for their contributions to [The Terasology Foundation], and we want to congratulate them for successfully finishing a Summer of Code!

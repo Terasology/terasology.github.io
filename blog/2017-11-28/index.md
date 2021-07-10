@@ -6,7 +6,7 @@ description: "MovingBlocks is once again participating in Google Code-In this ye
 author: "Thorbjørn Lindeijer"
 ddate: "November 28th, 2017"
 date: "2017-11-28"
-tags: "Update"
+tags: ["Update"]
 ---
 
 MovingBlocks is once again participating in [Google Code-In](https://codein.withgoogle.com/) this year.

@@ -6,7 +6,7 @@ description: "It’s that time of the year again - Google Summer of Code (GSOC) 
 author: "Niruandaleth & Skaldarnar"
 ddate: "May 29th, 2019"
 date: "2019-05-29"
-tags: "GSoC"
+tags: ["GSoC"]
 ---
 
 It’s that time of the year again - Google Summer of Code (GSOC) is ahead of us.

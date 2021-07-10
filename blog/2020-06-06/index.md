@@ -6,7 +6,7 @@ description: "An exploration of recent events in Terasology development"
 author: "Jordan H. (Qwertygiy)"
 ddate: "June 6th, 2020"
 date: "2020-06-06"
-tags: "TeraSaturday"
+tags: ["TeraSaturday"]
 ---
 
 _Welcome to the return of TeraSaturday, a not-so-weekly update post about all the neat stuff that has been going on in 

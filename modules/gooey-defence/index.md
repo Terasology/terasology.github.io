@@ -4,7 +4,7 @@ title: "Gooey Defence"
 cover: "../../static/logos/cover.jpg"
 date: "01/01/2017"
 category: "tech"
-tags: "Gameplay Template"
+tags: ["Gameplay Template"]
 ---
 This module serves as the main module for the Gooey's Defence Gameplay Template.  
 It currently is undergoing active development and thus is not at a public release stage.

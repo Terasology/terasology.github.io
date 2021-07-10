@@ -8,7 +8,7 @@ description: "Students are mid-way through Google Summer of Code 2020 🎉
 author: "Niruandaleth & Skaldarnar"
 ddate: "July 19th, 2020"
 date: "2020-07-19"
-tags: "GSOC"
+tags: ["GSOC"]
 ---
 
 In our 5th year participating in the Google Summer of Code (GSOC), we [welcomed](gsoc-2020-an-overview) six students to our community that joined efforts with mentors and other contributors to make Terasology even more awesome!

@@ -8,7 +8,7 @@ description: "Google Summer of Code 2020 is over 🏁
 author: "Niruandaleth"
 ddate: "Sept 27th, 2020"
 date: "2020-09-27"
-tags: "GSOC"
+tags: ["GSOC"]
 ---
 
 Our 5th year anniversary of inviting Google Summer of Code (GSOC) students into our community is over.

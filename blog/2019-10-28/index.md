@@ -8,7 +8,7 @@ description: " It has been a fun week for a handful of our contributors in Munic
 author: "Niruandaleth & Skaldarnar"
 ddate: "Oct 28th, 2019"
 date: "2019-10-28"
-tags: "GSoC"
+tags: ["GSoC"]
 ---
 
 _It has been a fun week for a handful of our contributors in Munich, Germany. We took the opportunity of the Google

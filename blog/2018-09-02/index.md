@@ -6,7 +6,7 @@ description: "For Google Summer of Code (GSOC) 2018 we had 9 awesome students wo
 author: "Cervator"
 ddate: "September 02nd, 2018"
 date: "2018-09-02"
-tags: "GSoC"
+tags: ["GSoC"]
 ---
 
 For Google Summer of Code (GSOC) 2018 we had 9 awesome students working on a mix of content tasks and other improvements.

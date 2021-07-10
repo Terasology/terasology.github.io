@@ -6,7 +6,7 @@ description: "An exploration of recent events in Terasology development."
 author: "Skaldarnar"
 ddate: "Dec 21st, 2020"
 date: "2020-11-21"
-tags: "TeraSaturday"
+tags: ["TeraSaturday"]
 ---
 
 _Welcome to the return of TeraSaturday, a not-so-weekly update post about all the neat stuff that has been going on in

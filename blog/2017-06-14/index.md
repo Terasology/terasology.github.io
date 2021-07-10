@@ -6,7 +6,7 @@ description: "If you have visited our website before you might notice something 
 author: "Scott Moses Sunarto"
 ddate: "June 14th, 2017"
 date: "2017-06-14"
-tags: "Update"
+tags: ["Update"]
 ---
 ### Heya Terasologist!
 

@@ -8,7 +8,7 @@ description: "5th year anniversary for Terasology participating in Google Summer
 author: "Niruandaleth & Skaldarnar"
 ddate: "May 30th, 2020"
 date: "2020-05-30"
-tags: "GSOC"
+tags: ["GSOC"]
 ---
 
 This year is the 5th year anniversary for Terasology participating in the Google Summer of Code (GSOC) 🎉

@@ -6,7 +6,7 @@ description: "A summary of what has been going on in the past week of Terasology
 author: "Jordan H. (Qwertygiy)"
 ddate: "Feb 1st, 2020"
 date: "2020-02-01"
-tags: "TeraSaturday"
+tags: ["TeraSaturday"]
 ---
 
 _Welcome to the sequel edition of **TeraSaturday**, a weekly update post about all the neat stuff that has been going on in

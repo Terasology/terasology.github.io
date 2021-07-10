@@ -6,7 +6,7 @@ description: "It all started with one hot sleepless night in October. I stumbled
 author: "nihal111"
 ddate: "September 09th, 2017"
 date: "2017-09-17"
-tags: "Project"
+tags: ["Project"]
 ---
 
 It all started with one hot sleepless night in October. I stumbled upon the Terasology project and hopped on to the org's IRC. It took me a while to get everything running from source. After I played around for a bit, I had a glance at the issue tracker. Conveniently, I found a couple of bite-sized bugs and I sent out PR fixes by the next morning. From there to a GCI mentor last winter and a GSoC student past summer, it has been a hell of a ride.
