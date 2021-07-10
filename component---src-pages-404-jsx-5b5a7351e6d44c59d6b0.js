@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_advanced=self.webpackChunkgatsby_starter_advanced||[]).push([[256],{1657:function(e,t,n){"use strict";n.r(t);var a=n(7294),l=n(7701),r=n(138),c=n(2797),u=n.n(c);t.default=function(){return a.createElement(r.Z,null,a.createElement("div",{className:"about-container"},a.createElement(l.ZP,{title:"Not Found | "+u().siteTitle})),a.createElement("center",null,a.createElement("h1",null,"404"),a.createElement("h4",null,"This is not the page you are looking for...")))}}}]);
+//# sourceMappingURL=component---src-pages-404-jsx-5b5a7351e6d44c59d6b0.js.map
