@@ -87,6 +87,17 @@ const Header = () => {
             <NavItem>
               <NavLink>
                 <Link
+                  to="/gsoc_tsoc"
+                  className="text-color"
+                  activeClassName="active"
+                >
+                  GSoC & TSoC
+                </Link>
+              </NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink>
+                <Link
                   to="https://forum.terasology.org/"
                   className="text-color"
                   activeClassName="active"
