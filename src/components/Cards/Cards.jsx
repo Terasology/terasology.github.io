@@ -16,7 +16,7 @@ const Cards = ({ title, cover, tags, excerpt, path }) => {
           </div>
         </Col>
         <div className="d-flex flex-column ml-3">
-          <h5 className="mt-1">{title}</h5>
+          <h5 className="mt-2">{title}</h5>
           <div className="mt-auto mr-2" lang="en">
             <p className="word-break">{excerpt}</p>
           </div>
